@@ -3,12 +3,18 @@
 // ======================================
 //Colors
 $white: #fff;
-$color-primary: #777;
-$color-secondary: #58e1c1;
-$color-link: #51ddfc;
+$color-primary: #58e1c1; // Seaweed-green
+$color-secondary:#51ddfc; // Teal 
+$color-text: #777; //Grey
+// Color Buttons
+$color-error: #e4757a; // Red
+$color-success: #63cc82; // Green
+$color-info: #927bc1; //Violet
+$color-warning: #fd7856; // Orange
 // Fonts
-$font-primary: "Lato",
+$font-primary: 'Lato',
 sans-serif;
-$button-colors: ();
 //Breakpoints
-$break-m: 768px;
+$break-s: 768px;
+//Layout
+$max-width: 1400px;
