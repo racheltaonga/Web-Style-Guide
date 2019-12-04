@@ -1,0 +1,15 @@
+// ======================================
+//  Base Styles
+* {
+    font-family: $font-primary;
+    color: $color-primary;
+    box-sizing: border-box;
+}
+
+p {
+    line-height: 1.45em;
+}
+
+a {
+    text-decoration: none;
+}
