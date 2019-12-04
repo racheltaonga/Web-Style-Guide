@@ -25,3 +25,10 @@
     margin-left: auto;
     margin-right: auto;
 }
+
+@include mq {
+    .logo {
+        margin-left: initial;
+        margin-right: initial;
+    }
+}

@@ -3,7 +3,7 @@
 // =============================================
 * {
     font-family: $font-primary;
-    color: $color-primary;
+    color: $color-text;
     box-sizing: border-box;
 }
 
@@ -25,7 +25,7 @@ a {
 
 .headline-secondary {
     font-weight: 300;
-    color: #777;
+    color: $color-text;
 }
 
 .link {
